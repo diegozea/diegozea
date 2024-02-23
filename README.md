@@ -6,6 +6,6 @@
 -  🐉 [**MIToS**](https://github.com/diegozea/MIToS.jl): A package for protein sequence and structure analysis in the Julia programming language.
 - ⚡ [**ThorAxe**](https://github.com/PhyloSofS-Team/thoraxe): A Python software to assess the evolutionary conservation of alternative splicing isoforms.
 
-📒 I also wrote the book [**Interactive Visualization and Plotting with Julia**](https://a.co/d/cwLVepu) which shares methods and techniques for analyzing and visualizing data using the Julia language. You can find the example codes that are explained in detail within the book in this [website](https://packtpublishing.github.io/Interactive-Visualization-and-Plotting-with-Julia/) and [repo](https://github.com/PacktPublishing/Interactive-Visualization-and-Plotting-with-Julia).
+📒 I also wrote the book [**Interactive Visualization and Plotting with Julia**](https://a.co/d/cwLVepu) which shares methods and techniques for analyzing and visualizing data using the Julia language. You can find the example codes, which are explained in detail within the book, on this [website](https://packtpublishing.github.io/Interactive-Visualization-and-Plotting-with-Julia/) and [repo](https://github.com/PacktPublishing/Interactive-Visualization-and-Plotting-with-Julia).
 
 🔍 For more details about my work and projects, please visit my [**website**](https://diegozea.github.io/)
